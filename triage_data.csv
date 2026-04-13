@@ -1,0 +1,461 @@
+age,gender,symptoms,temperature_c,heart_rate,systolic_bp,diastolic_bp,spo2,respiratory_rate,triage_label
+68,M,severe chest pain radiating to arm,39.8,129,87,51,85,33,Critical
+61,F,minor cut on hand,36.9,69,128,78,100,17,Non-Urgent
+19,F,"mild fever, cough",37.2,65,118,76,97,14,Non-Urgent
+58,F,"high fever, confusion, difficulty breathing",39.2,130,87,58,88,26,Critical
+42,F,"mild fever, cough",37.1,74,115,72,97,16,Non-Urgent
+51,M,severe chest pain radiating to arm,39.4,119,88,59,85,29,Critical
+40,M,"fever, cough, fatigue",38.9,106,112,82,96,22,Urgent
+74,F,"fever, cough, fatigue",37.2,94,128,73,95,24,Urgent
+42,M,"mild fever, cough",37.2,82,120,78,100,20,Non-Urgent
+33,M,"migraine, nausea, light sensitivity",38.7,100,109,65,94,21,Urgent
+28,M,"headache, mild fatigue",36.5,80,116,85,99,15,Non-Urgent
+28,F,"sore throat, runny nose",37.7,78,122,85,97,17,Non-Urgent
+40,F,"abdominal pain, vomiting",38.2,92,104,73,97,23,Urgent
+53,F,"shortness of breath, wheezing, chest tightness",39.6,133,96,58,84,28,Critical
+53,M,minor cut on hand,36.5,77,126,83,100,18,Non-Urgent
+57,F,"dehydration, vomiting, weakness",37.6,113,127,85,93,25,Urgent
+52,M,"stomach discomfort, bloating",37.5,76,128,80,100,16,Non-Urgent
+56,M,"headache, dizziness, nausea",38.3,92,104,85,93,19,Urgent
+38,M,"stomach discomfort, bloating",36.6,77,120,79,100,18,Non-Urgent
+22,M,"fever, cough, fatigue",37.1,112,110,80,97,25,Urgent
+18,M,"stomach discomfort, bloating",36.8,72,112,81,99,20,Non-Urgent
+29,M,"sore throat, runny nose",37.2,94,129,77,97,17,Non-Urgent
+71,F,"abdominal pain, vomiting",39.0,105,124,75,94,23,Urgent
+24,M,"fever, cough, fatigue",38.3,102,111,81,94,18,Urgent
+28,M,ankle pain after fall,37.8,90,116,74,97,17,Non-Urgent
+80,F,"loss of consciousness, weakness",37.3,115,90,58,87,25,Critical
+61,M,"moderate shortness of breath, cough",37.1,114,102,85,97,21,Urgent
+19,F,"sore throat, runny nose",36.6,87,114,73,99,14,Non-Urgent
+87,F,"high fever, confusion, difficulty breathing",37.4,125,85,52,84,24,Critical
+40,M,knee pain after exercise,37.7,75,114,77,99,19,Non-Urgent
+61,M,"migraine, nausea, light sensitivity",37.5,95,100,75,95,21,Urgent
+47,M,"moderate shortness of breath, cough",37.0,101,107,83,96,20,Urgent
+19,M,"headache, mild fatigue",36.9,70,128,76,98,19,Non-Urgent
+33,F,"sore throat, runny nose",36.4,66,121,76,99,16,Non-Urgent
+45,F,knee pain after exercise,36.7,85,127,75,98,17,Non-Urgent
+62,M,"ear pain, mild fever",37.7,82,129,72,97,20,Non-Urgent
+63,F,"headache, mild fatigue",37.8,85,112,85,100,18,Non-Urgent
+30,M,"headache, dizziness, nausea",37.6,112,107,76,97,22,Urgent
+61,M,"high fever, confusion, difficulty breathing",37.9,122,90,53,90,26,Critical
+60,F,"stomach discomfort, bloating",36.9,74,115,75,99,14,Non-Urgent
+40,F,"headache, dizziness, nausea",38.9,100,105,77,97,22,Urgent
+64,M,"headache, mild fatigue",37.6,89,110,80,100,16,Non-Urgent
+64,M,minor cut on hand,36.4,81,115,73,99,19,Non-Urgent
+50,M,"mild fever, cough",36.6,91,122,72,97,17,Non-Urgent
+22,F,"migraine, nausea, light sensitivity",38.3,101,108,65,95,19,Urgent
+67,F,"headache, dizziness, nausea",37.8,93,123,67,96,25,Urgent
+60,M,"sore throat, runny nose",36.5,68,128,85,98,14,Non-Urgent
+60,M,severe chest pain radiating to arm,39.1,128,87,52,88,25,Critical
+35,M,minor cut on hand,37.3,81,110,70,100,15,Non-Urgent
+40,M,ankle pain after fall,36.7,70,118,78,100,15,Non-Urgent
+57,M,"abdominal pain, vomiting",38.3,101,109,85,96,20,Urgent
+61,M,"ear pain, mild fever",37.3,85,112,78,97,14,Non-Urgent
+25,M,"fever, cough, fatigue",37.0,96,126,69,97,24,Urgent
+42,M,"back pain, fever",38.5,110,126,69,94,19,Urgent
+84,F,"high fever, confusion, difficulty breathing",40.2,143,80,59,83,26,Critical
+83,F,severe chest pain radiating to arm,39.1,144,87,55,89,30,Critical
+46,F,"shortness of breath, wheezing, chest tightness",39.2,135,90,58,83,28,Critical
+57,F,"persistent cough, fever, body ache",37.7,91,109,80,97,25,Urgent
+43,M,"dehydration, vomiting, weakness",38.4,97,114,84,95,25,Urgent
+45,M,"shortness of breath, wheezing, chest tightness",37.4,113,87,52,82,29,Critical
+35,M,"abdominal pain, vomiting",38.8,94,112,79,95,24,Urgent
+49,F,"stomach discomfort, bloating",37.7,73,112,82,98,16,Non-Urgent
+58,F,"migraine, nausea, light sensitivity",37.9,98,106,81,93,23,Urgent
+71,M,"shortness of breath, wheezing, chest tightness",37.3,140,92,62,84,31,Critical
+36,F,"sore throat, runny nose",36.4,73,113,72,99,15,Non-Urgent
+59,F,"back pain, fever",37.4,94,115,69,96,23,Urgent
+29,M,"persistent cough, fever, body ache",37.2,99,130,77,97,24,Urgent
+24,F,"back pain, fever",38.9,107,116,81,97,18,Urgent
+74,F,"severe headache, slurred speech, dizziness",38.5,127,90,57,83,28,Critical
+85,F,"shortness of breath, wheezing, chest tightness",37.8,126,84,53,82,28,Critical
+57,M,"loss of consciousness, weakness",37.5,137,91,63,88,31,Critical
+71,F,"headache, dizziness, nausea",37.9,91,117,78,96,20,Urgent
+75,F,"shortness of breath, wheezing, chest tightness",38.0,143,99,59,83,27,Critical
+59,M,"severe abdominal pain, vomiting, low blood pressure",40.2,118,96,65,83,24,Critical
+74,M,"chest pain, shortness of breath, sweating",38.8,134,82,59,87,33,Critical
+47,M,"loss of consciousness, weakness",39.8,124,86,64,87,28,Critical
+58,M,"ear pain, mild fever",36.5,79,118,76,98,18,Non-Urgent
+61,F,"severe headache, slurred speech, dizziness",39.2,139,89,55,83,31,Critical
+47,M,"mild fever, cough",37.3,66,119,75,97,14,Non-Urgent
+30,M,knee pain after exercise,37.8,85,114,78,99,19,Non-Urgent
+49,M,"mild fever, cough",37.6,85,120,73,97,15,Non-Urgent
+33,F,"fever, cough, fatigue",38.0,101,101,84,97,25,Urgent
+55,F,knee pain after exercise,36.5,74,120,74,98,19,Non-Urgent
+35,F,"fever, cough, fatigue",38.4,104,116,81,97,20,Urgent
+46,M,"dehydration, vomiting, weakness",37.9,95,111,74,95,19,Urgent
+45,M,"fever, cough, fatigue",37.9,107,106,66,94,22,Urgent
+42,M,knee pain after exercise,36.5,84,125,82,100,18,Non-Urgent
+64,M,"loss of consciousness, weakness",38.9,113,99,53,85,34,Critical
+22,F,"moderate shortness of breath, cough",37.0,108,119,68,95,22,Urgent
+35,F,"migraine, nausea, light sensitivity",38.4,112,106,77,94,23,Urgent
+52,F,"headache, mild fatigue",37.6,93,123,78,100,19,Non-Urgent
+59,F,minor cut on hand,37.0,69,112,80,97,14,Non-Urgent
+56,F,"high fever, confusion, difficulty breathing",40.2,137,100,65,83,31,Critical
+24,F,"sore throat, runny nose",37.0,91,112,80,100,20,Non-Urgent
+62,F,"shortness of breath, wheezing, chest tightness",39.2,123,97,54,89,27,Critical
+45,M,"fever, cough, fatigue",37.1,107,106,76,97,22,Urgent
+55,F,"moderate shortness of breath, cough",37.8,115,110,69,97,19,Urgent
+65,M,minor cut on hand,37.2,76,129,83,98,18,Non-Urgent
+48,F,"persistent cough, fever, body ache",37.9,97,127,76,93,23,Urgent
+31,F,"stomach discomfort, bloating",37.1,76,125,73,100,19,Non-Urgent
+49,M,"severe headache, slurred speech, dizziness",38.9,113,84,54,86,25,Critical
+29,F,"headache, mild fatigue",37.1,67,111,77,98,14,Non-Urgent
+48,F,"headache, dizziness, nausea",37.1,104,120,74,95,18,Urgent
+53,F,"ear pain, mild fever",36.5,84,120,82,97,16,Non-Urgent
+57,F,"ear pain, mild fever",36.4,86,114,85,100,14,Non-Urgent
+20,F,"fever, cough, fatigue",38.1,103,100,65,97,22,Urgent
+28,F,minor cut on hand,37.3,67,125,73,99,20,Non-Urgent
+46,F,"headache, dizziness, nausea",38.3,105,115,85,94,22,Urgent
+24,M,"back pain, fever",37.8,113,101,78,93,25,Urgent
+89,M,"severe headache, slurred speech, dizziness",38.7,111,100,57,84,28,Critical
+36,F,minor cut on hand,36.8,75,122,80,99,17,Non-Urgent
+53,F,"shortness of breath, wheezing, chest tightness",38.6,117,98,56,89,28,Critical
+32,F,"mild fever, cough",37.4,65,111,70,98,14,Non-Urgent
+77,M,"high fever, confusion, difficulty breathing",38.7,113,82,63,86,24,Critical
+48,M,"headache, mild fatigue",37.5,76,118,77,100,18,Non-Urgent
+89,F,severe chest pain radiating to arm,39.5,117,98,51,87,32,Critical
+62,M,knee pain after exercise,37.6,90,123,75,97,15,Non-Urgent
+45,M,"mild fever, cough",37.4,80,112,77,100,14,Non-Urgent
+55,F,"loss of consciousness, weakness",38.6,126,96,55,90,25,Critical
+83,F,"shortness of breath, wheezing, chest tightness",38.7,118,82,58,88,29,Critical
+82,M,"chest pain, shortness of breath, sweating",38.3,118,82,59,87,30,Critical
+47,M,"headache, mild fatigue",37.6,80,111,72,100,15,Non-Urgent
+65,M,"abdominal pain, vomiting",38.6,104,101,74,94,18,Urgent
+48,M,"abdominal pain, vomiting",37.9,106,111,69,97,20,Urgent
+89,F,"severe headache, slurred speech, dizziness",39.0,128,81,57,86,28,Critical
+65,F,knee pain after exercise,37.1,81,121,71,98,14,Non-Urgent
+59,F,"fever, cough, fatigue",38.8,107,110,84,94,19,Urgent
+74,F,"confusion, weakness, low oxygen",40.0,144,80,62,82,25,Critical
+30,M,minor cut on hand,37.0,82,127,78,99,16,Non-Urgent
+46,F,"persistent cough, fever, body ache",37.6,91,117,83,94,24,Urgent
+61,F,ankle pain after fall,37.5,65,124,76,100,20,Non-Urgent
+48,M,"confusion, weakness, low oxygen",40.1,115,85,52,83,34,Critical
+58,F,"mild fever, cough",37.5,89,112,82,99,19,Non-Urgent
+57,F,"moderate shortness of breath, cough",37.8,110,130,76,93,21,Urgent
+20,F,"headache, mild fatigue",36.8,82,119,75,100,18,Non-Urgent
+22,M,"abdominal pain, vomiting",38.9,114,118,73,94,24,Urgent
+88,F,"chest pain, shortness of breath, sweating",39.7,112,85,65,90,34,Critical
+56,F,"sore throat, runny nose",37.0,75,114,70,100,16,Non-Urgent
+21,F,"sore throat, runny nose",36.9,88,123,75,100,17,Non-Urgent
+18,M,knee pain after exercise,36.5,71,121,70,99,20,Non-Urgent
+24,F,"stomach discomfort, bloating",36.6,65,122,80,100,20,Non-Urgent
+62,F,"confusion, weakness, low oxygen",39.7,114,81,55,86,33,Critical
+30,F,ankle pain after fall,37.5,95,127,85,100,19,Non-Urgent
+80,F,"severe abdominal pain, vomiting, low blood pressure",39.5,134,94,60,85,27,Critical
+34,F,"migraine, nausea, light sensitivity",37.8,104,112,78,93,23,Urgent
+44,M,"mild fever, cough",37.3,69,130,79,98,16,Non-Urgent
+51,M,"migraine, nausea, light sensitivity",38.8,105,100,67,96,25,Urgent
+52,M,"ear pain, mild fever",36.9,91,125,77,98,17,Non-Urgent
+72,F,"persistent cough, fever, body ache",38.7,100,124,69,97,18,Urgent
+76,M,severe chest pain radiating to arm,39.6,144,84,54,89,32,Critical
+41,F,"mild fever, cough",37.5,70,113,82,100,17,Non-Urgent
+28,F,"ear pain, mild fever",37.3,66,128,82,99,20,Non-Urgent
+55,F,"severe headache, slurred speech, dizziness",39.4,140,94,58,85,34,Critical
+50,M,"fever, cough, fatigue",38.7,103,121,68,96,25,Urgent
+89,F,"high fever, confusion, difficulty breathing",40.0,141,83,50,86,31,Critical
+21,F,"sore throat, runny nose",37.4,78,124,82,97,18,Non-Urgent
+72,M,"dehydration, vomiting, weakness",37.9,100,102,77,93,20,Urgent
+65,F,"ear pain, mild fever",36.5,76,120,75,97,20,Non-Urgent
+75,F,"migraine, nausea, light sensitivity",38.8,102,112,67,97,20,Urgent
+61,F,"dehydration, vomiting, weakness",37.2,105,119,78,95,18,Urgent
+80,F,"severe headache, slurred speech, dizziness",38.8,137,97,60,87,31,Critical
+20,F,"stomach discomfort, bloating",36.6,77,114,82,97,17,Non-Urgent
+47,M,knee pain after exercise,37.2,87,117,79,97,19,Non-Urgent
+63,M,knee pain after exercise,37.6,80,115,72,97,20,Non-Urgent
+56,M,"back pain, fever",37.9,102,122,85,96,22,Urgent
+29,F,"moderate shortness of breath, cough",37.4,97,112,83,94,25,Urgent
+21,M,"back pain, fever",37.7,95,130,71,95,25,Urgent
+32,F,"abdominal pain, vomiting",38.6,97,125,80,93,23,Urgent
+53,M,"loss of consciousness, weakness",37.3,133,81,61,85,34,Critical
+66,F,"high fever, confusion, difficulty breathing",39.6,139,82,54,85,34,Critical
+65,M,ankle pain after fall,36.8,90,127,75,99,19,Non-Urgent
+42,F,"stomach discomfort, bloating",36.6,80,130,72,97,16,Non-Urgent
+29,M,"headache, mild fatigue",36.4,77,124,77,97,17,Non-Urgent
+44,M,ankle pain after fall,37.3,79,116,72,97,15,Non-Urgent
+46,M,"loss of consciousness, weakness",37.7,131,93,57,86,26,Critical
+53,F,"high fever, confusion, difficulty breathing",40.0,114,87,61,86,26,Critical
+28,M,"headache, dizziness, nausea",38.4,105,105,82,93,18,Urgent
+29,F,"ear pain, mild fever",37.0,73,124,84,99,15,Non-Urgent
+28,M,"sore throat, runny nose",37.1,76,126,78,98,16,Non-Urgent
+55,F,"severe headache, slurred speech, dizziness",39.3,111,81,60,82,28,Critical
+61,F,"confusion, weakness, low oxygen",37.6,145,97,58,88,33,Critical
+35,F,"sore throat, runny nose",37.6,69,114,77,98,19,Non-Urgent
+52,F,"loss of consciousness, weakness",40.0,125,98,51,83,30,Critical
+70,M,"back pain, fever",38.6,108,110,65,94,22,Urgent
+88,M,"loss of consciousness, weakness",40.1,144,90,50,83,28,Critical
+72,F,"severe abdominal pain, vomiting, low blood pressure",37.4,131,99,60,83,28,Critical
+78,M,"severe headache, slurred speech, dizziness",38.6,125,87,52,87,24,Critical
+49,F,"mild fever, cough",36.7,71,118,76,99,19,Non-Urgent
+62,M,"stomach discomfort, bloating",36.6,87,130,70,99,17,Non-Urgent
+32,F,ankle pain after fall,37.5,66,122,72,100,20,Non-Urgent
+68,F,"migraine, nausea, light sensitivity",38.1,111,126,71,94,19,Urgent
+58,M,"headache, mild fatigue",37.4,89,123,83,100,14,Non-Urgent
+66,M,"persistent cough, fever, body ache",38.3,93,124,83,95,20,Urgent
+82,M,"loss of consciousness, weakness",39.0,130,94,64,89,34,Critical
+74,F,"dehydration, vomiting, weakness",37.2,103,118,77,97,19,Urgent
+23,M,"persistent cough, fever, body ache",37.2,100,122,80,93,20,Urgent
+47,F,"abdominal pain, vomiting",37.2,113,111,69,97,18,Urgent
+29,M,knee pain after exercise,37.4,86,122,72,99,20,Non-Urgent
+59,F,knee pain after exercise,36.6,93,123,75,97,14,Non-Urgent
+66,F,"loss of consciousness, weakness",38.2,116,85,60,88,31,Critical
+64,M,knee pain after exercise,36.8,91,112,81,97,18,Non-Urgent
+34,F,"stomach discomfort, bloating",36.7,74,126,82,97,14,Non-Urgent
+22,M,"ear pain, mild fever",36.8,90,113,70,99,19,Non-Urgent
+52,M,"migraine, nausea, light sensitivity",37.3,91,114,68,95,19,Urgent
+27,M,"stomach discomfort, bloating",36.8,87,115,72,100,16,Non-Urgent
+42,F,ankle pain after fall,37.6,83,123,81,98,20,Non-Urgent
+64,F,"moderate shortness of breath, cough",38.8,105,106,68,94,19,Urgent
+68,F,"migraine, nausea, light sensitivity",38.1,108,114,83,97,23,Urgent
+55,F,"severe headache, slurred speech, dizziness",39.2,128,96,60,83,27,Critical
+69,M,"severe abdominal pain, vomiting, low blood pressure",38.0,136,88,52,89,24,Critical
+24,F,"headache, mild fatigue",36.7,72,123,85,97,15,Non-Urgent
+66,F,"shortness of breath, wheezing, chest tightness",37.5,134,83,61,87,33,Critical
+80,F,"high fever, confusion, difficulty breathing",39.8,110,83,58,87,25,Critical
+26,F,"back pain, fever",38.2,96,104,80,94,19,Urgent
+35,F,"headache, mild fatigue",37.6,92,113,77,98,16,Non-Urgent
+23,F,"mild fever, cough",36.8,77,130,74,100,16,Non-Urgent
+32,F,"sore throat, runny nose",36.8,90,119,78,100,17,Non-Urgent
+54,F,"chest pain, shortness of breath, sweating",38.4,119,82,65,86,29,Critical
+37,M,minor cut on hand,36.6,76,114,82,100,18,Non-Urgent
+45,M,minor cut on hand,36.5,91,130,77,99,20,Non-Urgent
+42,F,"fever, cough, fatigue",38.9,111,112,81,95,24,Urgent
+58,M,"headache, dizziness, nausea",37.8,95,105,84,94,25,Urgent
+34,M,"headache, mild fatigue",37.3,95,130,79,98,15,Non-Urgent
+74,M,"shortness of breath, wheezing, chest tightness",38.9,134,90,50,89,29,Critical
+70,F,"back pain, fever",37.3,91,109,80,94,25,Urgent
+53,F,"migraine, nausea, light sensitivity",37.8,103,126,83,93,20,Urgent
+23,M,"mild fever, cough",36.4,74,124,81,99,14,Non-Urgent
+24,M,"back pain, fever",38.8,93,101,82,97,21,Urgent
+49,M,"stomach discomfort, bloating",36.9,65,112,84,99,20,Non-Urgent
+39,F,"sore throat, runny nose",37.7,71,114,80,98,20,Non-Urgent
+50,F,"loss of consciousness, weakness",37.9,117,94,53,84,31,Critical
+28,M,"moderate shortness of breath, cough",37.2,113,118,72,94,18,Urgent
+22,F,"dehydration, vomiting, weakness",38.1,97,123,69,93,22,Urgent
+47,F,"back pain, fever",38.8,113,114,77,95,20,Urgent
+85,F,"severe headache, slurred speech, dizziness",37.9,138,82,59,85,28,Critical
+61,M,"stomach discomfort, bloating",37.2,81,114,81,97,17,Non-Urgent
+31,M,"fever, cough, fatigue",37.5,114,109,75,95,18,Urgent
+38,M,"persistent cough, fever, body ache",37.7,114,101,85,95,22,Urgent
+39,F,"persistent cough, fever, body ache",38.9,115,115,71,95,25,Urgent
+45,F,"abdominal pain, vomiting",37.7,100,117,76,94,21,Urgent
+32,F,"moderate shortness of breath, cough",37.3,94,124,85,93,20,Urgent
+58,F,"severe headache, slurred speech, dizziness",39.8,113,85,62,82,30,Critical
+45,F,"high fever, confusion, difficulty breathing",38.9,113,99,65,86,27,Critical
+32,M,"moderate shortness of breath, cough",38.3,107,108,69,95,19,Urgent
+68,F,"moderate shortness of breath, cough",38.6,113,120,80,96,20,Urgent
+88,F,"shortness of breath, wheezing, chest tightness",38.2,113,87,51,87,30,Critical
+62,M,"back pain, fever",37.5,94,121,80,93,19,Urgent
+54,F,"headache, dizziness, nausea",37.6,93,102,75,95,22,Urgent
+38,F,"sore throat, runny nose",37.2,65,118,71,100,18,Non-Urgent
+50,F,"shortness of breath, wheezing, chest tightness",37.9,136,95,57,89,34,Critical
+65,F,"headache, dizziness, nausea",37.9,92,125,75,95,19,Urgent
+68,M,"fever, cough, fatigue",37.0,94,126,85,94,19,Urgent
+54,M,"shortness of breath, wheezing, chest tightness",38.3,120,97,50,87,31,Critical
+58,M,knee pain after exercise,36.8,82,129,71,97,19,Non-Urgent
+53,M,"severe abdominal pain, vomiting, low blood pressure",39.1,126,85,64,90,30,Critical
+70,M,"fever, cough, fatigue",37.7,94,125,83,94,19,Urgent
+57,M,"headache, mild fatigue",37.2,69,123,73,97,16,Non-Urgent
+66,F,"severe headache, slurred speech, dizziness",37.8,113,88,65,83,25,Critical
+49,F,"moderate shortness of breath, cough",38.0,103,103,68,97,21,Urgent
+25,F,ankle pain after fall,36.4,91,117,74,98,20,Non-Urgent
+82,F,"chest pain, shortness of breath, sweating",39.4,113,90,51,82,33,Critical
+38,F,"headache, mild fatigue",36.5,79,110,81,98,16,Non-Urgent
+58,M,"severe headache, slurred speech, dizziness",38.3,126,90,58,86,32,Critical
+22,F,"migraine, nausea, light sensitivity",37.3,97,124,85,95,23,Urgent
+85,F,"confusion, weakness, low oxygen",37.7,137,99,52,88,30,Critical
+40,F,knee pain after exercise,37.7,92,115,75,98,18,Non-Urgent
+34,M,"mild fever, cough",37.3,79,119,78,100,14,Non-Urgent
+72,F,"headache, dizziness, nausea",37.7,108,123,75,94,20,Urgent
+30,F,"headache, dizziness, nausea",38.5,91,121,67,95,25,Urgent
+41,M,"persistent cough, fever, body ache",38.2,100,127,75,95,24,Urgent
+40,F,"migraine, nausea, light sensitivity",38.9,90,108,77,94,25,Urgent
+35,M,"moderate shortness of breath, cough",37.6,91,107,78,97,25,Urgent
+71,F,"loss of consciousness, weakness",38.2,139,93,51,85,30,Critical
+26,F,"back pain, fever",38.1,102,109,73,97,20,Urgent
+31,M,"abdominal pain, vomiting",39.0,102,116,69,94,18,Urgent
+50,M,"severe headache, slurred speech, dizziness",39.0,137,90,58,82,25,Critical
+83,M,"confusion, weakness, low oxygen",39.0,117,85,59,83,33,Critical
+72,F,"persistent cough, fever, body ache",37.9,101,129,65,96,18,Urgent
+38,M,"abdominal pain, vomiting",38.4,108,115,81,95,18,Urgent
+66,M,severe chest pain radiating to arm,39.8,144,92,60,89,32,Critical
+63,F,"chest pain, shortness of breath, sweating",39.4,141,84,64,90,31,Critical
+84,F,"loss of consciousness, weakness",39.2,141,98,54,85,31,Critical
+20,M,ankle pain after fall,37.6,76,120,83,97,14,Non-Urgent
+20,M,"mild fever, cough",37.7,93,126,83,99,17,Non-Urgent
+21,M,"dehydration, vomiting, weakness",38.9,95,125,84,96,23,Urgent
+56,M,"back pain, fever",38.2,111,126,75,94,22,Urgent
+55,F,"ear pain, mild fever",36.4,87,121,74,98,20,Non-Urgent
+49,F,"severe abdominal pain, vomiting, low blood pressure",38.7,131,80,63,89,25,Critical
+46,M,minor cut on hand,37.2,77,110,76,98,16,Non-Urgent
+62,F,"headache, mild fatigue",37.0,95,117,71,98,14,Non-Urgent
+27,M,"back pain, fever",37.0,113,113,70,94,24,Urgent
+68,M,"abdominal pain, vomiting",37.3,104,128,81,94,24,Urgent
+71,F,"migraine, nausea, light sensitivity",39.0,94,119,67,93,22,Urgent
+46,F,"abdominal pain, vomiting",37.7,111,130,78,93,22,Urgent
+43,M,knee pain after exercise,36.9,66,128,76,99,19,Non-Urgent
+52,F,"back pain, fever",38.1,100,107,79,93,22,Urgent
+58,M,"fever, cough, fatigue",37.3,104,130,76,95,25,Urgent
+52,F,"mild fever, cough",36.7,75,116,84,97,16,Non-Urgent
+37,F,"stomach discomfort, bloating",36.5,93,111,74,97,20,Non-Urgent
+51,M,"headache, dizziness, nausea",38.0,107,103,73,95,25,Urgent
+90,M,"shortness of breath, wheezing, chest tightness",39.3,141,92,57,84,34,Critical
+59,M,"severe abdominal pain, vomiting, low blood pressure",39.2,112,80,57,85,24,Critical
+88,M,severe chest pain radiating to arm,37.9,126,100,56,88,25,Critical
+37,F,"headache, mild fatigue",36.8,69,112,75,100,16,Non-Urgent
+52,F,"severe headache, slurred speech, dizziness",38.6,129,92,58,90,32,Critical
+47,F,"stomach discomfort, bloating",36.8,68,127,81,98,17,Non-Urgent
+49,F,"abdominal pain, vomiting",37.6,102,121,81,95,19,Urgent
+39,M,"stomach discomfort, bloating",37.0,91,130,74,99,16,Non-Urgent
+40,F,minor cut on hand,36.7,92,119,83,99,16,Non-Urgent
+43,M,"mild fever, cough",36.9,82,125,71,97,19,Non-Urgent
+72,M,"confusion, weakness, low oxygen",37.8,139,87,52,89,32,Critical
+49,F,"dehydration, vomiting, weakness",38.1,101,109,73,95,25,Urgent
+73,M,"shortness of breath, wheezing, chest tightness",39.0,110,85,63,87,28,Critical
+59,M,"stomach discomfort, bloating",36.8,87,127,81,98,19,Non-Urgent
+81,M,"high fever, confusion, difficulty breathing",39.2,134,92,56,83,33,Critical
+21,F,minor cut on hand,37.4,94,118,81,97,16,Non-Urgent
+29,F,ankle pain after fall,36.8,79,129,71,99,14,Non-Urgent
+23,F,ankle pain after fall,37.4,95,121,82,97,19,Non-Urgent
+53,F,"headache, dizziness, nausea",37.4,100,121,80,97,24,Urgent
+74,F,"confusion, weakness, low oxygen",37.7,126,92,60,85,31,Critical
+42,M,"ear pain, mild fever",36.8,90,122,81,97,18,Non-Urgent
+37,F,"headache, mild fatigue",37.4,80,112,80,99,19,Non-Urgent
+49,F,"moderate shortness of breath, cough",37.1,91,105,79,96,25,Urgent
+53,F,"severe headache, slurred speech, dizziness",39.6,143,97,60,89,33,Critical
+61,M,"sore throat, runny nose",36.4,88,117,77,99,16,Non-Urgent
+85,F,"severe headache, slurred speech, dizziness",38.5,113,86,58,90,26,Critical
+72,F,"dehydration, vomiting, weakness",37.7,114,125,69,95,18,Urgent
+72,M,"severe abdominal pain, vomiting, low blood pressure",37.6,143,93,55,84,26,Critical
+74,M,"moderate shortness of breath, cough",37.3,112,129,85,94,23,Urgent
+59,F,"severe headache, slurred speech, dizziness",38.0,141,80,62,87,34,Critical
+87,F,"chest pain, shortness of breath, sweating",39.8,139,93,51,85,32,Critical
+71,F,"high fever, confusion, difficulty breathing",39.7,140,87,64,90,26,Critical
+65,F,ankle pain after fall,36.7,70,127,75,99,18,Non-Urgent
+28,M,"headache, dizziness, nausea",38.1,115,105,68,93,20,Urgent
+55,F,ankle pain after fall,36.7,86,124,70,97,19,Non-Urgent
+30,M,"headache, dizziness, nausea",38.3,113,128,84,95,18,Urgent
+85,F,"severe abdominal pain, vomiting, low blood pressure",39.9,139,84,63,84,32,Critical
+71,F,"migraine, nausea, light sensitivity",37.1,94,116,78,96,18,Urgent
+25,M,knee pain after exercise,37.0,69,128,73,97,18,Non-Urgent
+24,F,ankle pain after fall,37.0,83,125,84,98,18,Non-Urgent
+72,M,severe chest pain radiating to arm,37.9,143,94,51,90,27,Critical
+43,F,"migraine, nausea, light sensitivity",38.8,106,108,67,96,19,Urgent
+23,F,"stomach discomfort, bloating",36.6,78,130,83,100,17,Non-Urgent
+50,M,"sore throat, runny nose",37.5,86,123,75,97,14,Non-Urgent
+58,F,"dehydration, vomiting, weakness",37.1,96,109,71,94,22,Urgent
+54,F,"mild fever, cough",36.6,89,127,81,97,20,Non-Urgent
+73,M,"abdominal pain, vomiting",38.8,109,117,65,97,21,Urgent
+32,F,"sore throat, runny nose",37.2,85,110,80,97,20,Non-Urgent
+47,F,"loss of consciousness, weakness",37.3,123,87,50,90,27,Critical
+85,F,"high fever, confusion, difficulty breathing",40.1,126,94,59,85,30,Critical
+62,F,minor cut on hand,37.7,93,130,79,98,20,Non-Urgent
+84,M,"confusion, weakness, low oxygen",38.9,135,97,50,86,28,Critical
+79,M,"severe abdominal pain, vomiting, low blood pressure",37.4,119,87,62,84,27,Critical
+49,M,"headache, dizziness, nausea",38.8,100,117,76,95,25,Urgent
+47,F,minor cut on hand,36.9,80,116,77,98,14,Non-Urgent
+19,F,"stomach discomfort, bloating",36.6,92,115,84,100,14,Non-Urgent
+28,M,"migraine, nausea, light sensitivity",38.7,104,108,71,93,23,Urgent
+18,F,"mild fever, cough",36.5,72,126,77,100,16,Non-Urgent
+61,M,ankle pain after fall,37.4,74,129,72,98,16,Non-Urgent
+31,M,"sore throat, runny nose",37.2,89,122,72,99,15,Non-Urgent
+27,F,"sore throat, runny nose",37.5,86,113,72,99,20,Non-Urgent
+37,F,"persistent cough, fever, body ache",38.1,97,130,74,95,21,Urgent
+23,M,knee pain after exercise,36.8,86,130,85,98,14,Non-Urgent
+26,M,knee pain after exercise,37.5,81,128,70,98,15,Non-Urgent
+54,M,"back pain, fever",37.7,110,105,79,96,20,Urgent
+61,F,"fever, cough, fatigue",38.0,101,117,68,97,19,Urgent
+50,F,"back pain, fever",37.7,115,123,73,95,19,Urgent
+51,M,"mild fever, cough",37.2,84,130,75,100,16,Non-Urgent
+26,F,"sore throat, runny nose",37.3,70,120,81,100,18,Non-Urgent
+77,F,"confusion, weakness, low oxygen",40.1,131,83,64,83,32,Critical
+61,F,knee pain after exercise,37.7,75,122,74,97,18,Non-Urgent
+33,M,"persistent cough, fever, body ache",37.1,109,101,79,97,18,Urgent
+67,M,"moderate shortness of breath, cough",37.7,100,124,70,93,19,Urgent
+34,M,"stomach discomfort, bloating",36.9,91,112,84,97,20,Non-Urgent
+51,F,knee pain after exercise,36.8,66,114,74,98,16,Non-Urgent
+44,F,"headache, mild fatigue",37.7,67,113,74,99,16,Non-Urgent
+81,M,"loss of consciousness, weakness",37.8,112,93,50,90,32,Critical
+46,M,severe chest pain radiating to arm,39.4,125,87,54,83,34,Critical
+21,M,"mild fever, cough",37.0,82,125,74,97,16,Non-Urgent
+58,F,knee pain after exercise,37.7,86,110,77,99,17,Non-Urgent
+78,F,"high fever, confusion, difficulty breathing",39.8,137,86,56,86,30,Critical
+60,F,"migraine, nausea, light sensitivity",38.1,110,130,74,96,21,Urgent
+64,M,ankle pain after fall,36.5,95,112,80,100,19,Non-Urgent
+57,F,"shortness of breath, wheezing, chest tightness",37.6,112,87,65,83,31,Critical
+58,F,severe chest pain radiating to arm,39.9,130,86,65,88,34,Critical
+31,F,knee pain after exercise,37.8,91,116,85,99,16,Non-Urgent
+26,F,knee pain after exercise,37.0,85,126,77,97,17,Non-Urgent
+42,F,"dehydration, vomiting, weakness",38.4,107,101,67,96,18,Urgent
+81,M,"chest pain, shortness of breath, sweating",38.3,110,91,59,88,30,Critical
+49,F,"dehydration, vomiting, weakness",38.2,115,123,66,96,21,Urgent
+22,F,"persistent cough, fever, body ache",38.1,112,103,71,93,25,Urgent
+31,F,"dehydration, vomiting, weakness",38.5,114,120,85,96,23,Urgent
+47,M,"high fever, confusion, difficulty breathing",37.5,137,91,60,88,33,Critical
+29,M,"dehydration, vomiting, weakness",37.8,96,113,81,97,25,Urgent
+29,M,"mild fever, cough",37.0,82,127,83,97,14,Non-Urgent
+66,M,"persistent cough, fever, body ache",37.1,105,105,81,97,24,Urgent
+42,F,"abdominal pain, vomiting",38.8,110,108,80,94,21,Urgent
+67,M,severe chest pain radiating to arm,39.5,136,99,54,85,26,Critical
+25,F,"back pain, fever",38.6,90,108,82,93,25,Urgent
+52,F,"dehydration, vomiting, weakness",38.8,91,126,68,97,20,Urgent
+30,F,"dehydration, vomiting, weakness",38.4,101,114,66,95,24,Urgent
+35,M,"ear pain, mild fever",37.4,84,130,72,98,17,Non-Urgent
+30,F,minor cut on hand,37.3,73,121,78,100,14,Non-Urgent
+64,F,"stomach discomfort, bloating",37.1,81,120,83,98,16,Non-Urgent
+42,M,"migraine, nausea, light sensitivity",37.3,96,129,68,93,24,Urgent
+86,F,"chest pain, shortness of breath, sweating",40.2,110,82,57,84,30,Critical
+27,F,"back pain, fever",38.5,108,107,78,97,18,Urgent
+28,F,"persistent cough, fever, body ache",37.3,99,127,68,97,18,Urgent
+61,M,"moderate shortness of breath, cough",37.8,94,101,66,95,25,Urgent
+38,M,"back pain, fever",37.8,114,110,84,93,23,Urgent
+40,M,"headache, dizziness, nausea",38.7,104,103,71,97,25,Urgent
+28,M,minor cut on hand,36.5,86,117,78,97,20,Non-Urgent
+49,M,severe chest pain radiating to arm,40.0,119,97,51,87,33,Critical
+80,F,severe chest pain radiating to arm,39.5,124,96,62,89,31,Critical
+66,M,"moderate shortness of breath, cough",37.0,98,126,65,94,19,Urgent
+46,M,"headache, dizziness, nausea",38.8,95,129,66,96,25,Urgent
+49,M,"moderate shortness of breath, cough",38.3,107,113,82,96,21,Urgent
+68,M,"shortness of breath, wheezing, chest tightness",37.7,110,97,54,86,24,Critical
+54,F,"headache, mild fatigue",36.8,92,126,73,98,20,Non-Urgent
+47,F,severe chest pain radiating to arm,39.2,128,82,57,83,30,Critical
+63,M,"severe headache, slurred speech, dizziness",38.5,145,95,54,85,28,Critical
+32,M,"stomach discomfort, bloating",37.5,85,115,75,100,17,Non-Urgent
+35,F,"stomach discomfort, bloating",36.5,67,118,71,98,20,Non-Urgent
+48,M,ankle pain after fall,37.2,76,121,75,99,19,Non-Urgent
+46,F,"severe headache, slurred speech, dizziness",37.5,124,92,57,86,34,Critical
+53,M,"headache, dizziness, nausea",37.7,100,120,73,94,19,Urgent
+31,F,minor cut on hand,37.5,83,121,78,98,16,Non-Urgent
+53,F,minor cut on hand,37.2,88,129,79,97,20,Non-Urgent
+45,M,minor cut on hand,37.3,87,113,70,98,17,Non-Urgent
+35,M,"back pain, fever",37.8,92,111,72,93,23,Urgent
+39,M,"back pain, fever",38.2,108,100,73,95,21,Urgent
+45,M,"fever, cough, fatigue",37.6,93,130,79,93,21,Urgent
+34,F,"stomach discomfort, bloating",37.6,67,115,79,97,15,Non-Urgent
+59,F,"mild fever, cough",36.9,67,121,75,97,17,Non-Urgent
+52,M,"dehydration, vomiting, weakness",37.9,107,108,84,97,19,Urgent
+65,F,"loss of consciousness, weakness",38.4,128,97,54,85,30,Critical
+56,F,"ear pain, mild fever",36.9,77,128,73,99,16,Non-Urgent
+49,M,"sore throat, runny nose",37.6,70,121,75,99,20,Non-Urgent
+23,M,"headache, mild fatigue",36.8,81,116,74,99,17,Non-Urgent
+36,M,"persistent cough, fever, body ache",37.4,110,102,79,95,19,Urgent
+39,F,"headache, dizziness, nausea",37.8,114,117,80,94,21,Urgent
+69,F,"moderate shortness of breath, cough",37.8,106,113,70,94,20,Urgent
+38,M,"mild fever, cough",36.9,74,114,82,98,19,Non-Urgent
+60,F,severe chest pain radiating to arm,38.3,132,98,59,86,24,Critical
+58,F,"sore throat, runny nose",36.8,79,125,77,99,18,Non-Urgent
+22,M,minor cut on hand,37.7,69,128,73,98,14,Non-Urgent
+23,M,knee pain after exercise,37.4,82,117,75,100,15,Non-Urgent
+59,F,minor cut on hand,36.8,78,127,85,97,14,Non-Urgent
+37,F,knee pain after exercise,37.4,74,114,75,97,19,Non-Urgent
+37,M,"fever, cough, fatigue",37.8,109,119,66,93,21,Urgent
+51,M,minor cut on hand,37.2,71,122,79,97,20,Non-Urgent
+30,M,"ear pain, mild fever",36.6,94,122,70,98,15,Non-Urgent
+42,M,"ear pain, mild fever",37.7,70,111,83,98,16,Non-Urgent
+85,F,"severe headache, slurred speech, dizziness",39.7,120,91,61,85,34,Critical
+39,M,"abdominal pain, vomiting",37.9,91,101,76,95,19,Urgent
+53,M,"ear pain, mild fever",37.2,83,125,80,97,14,Non-Urgent
+48,M,"abdominal pain, vomiting",38.0,109,101,81,95,25,Urgent
+65,M,"severe headache, slurred speech, dizziness",40.0,114,80,64,83,25,Critical
+48,F,severe chest pain radiating to arm,38.4,131,83,57,85,27,Critical
+65,M,"migraine, nausea, light sensitivity",38.1,105,126,65,95,23,Urgent
